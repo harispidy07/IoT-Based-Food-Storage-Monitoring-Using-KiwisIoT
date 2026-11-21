@@ -9,8 +9,7 @@ This project uses IoT technology to monitor environmental conditions in food sto
 - NodeMCU ESP8266
 - Temperature and Humidity Sensor
 - Jumper wires
-- Breadboard
-- Power supply
+- USB Power supply
 
 ## Software Requirements
 
@@ -61,7 +60,7 @@ const char* topic = "YOUR_TOPIC_ID";
 [IoT-Based Food Storage Monitoring Using KiwisIoT](https://www.hackster.io/harispidy07/iot-based-food-storage-monitoring-using-kiwisiot-c00d2c)
 
 **KiwisIoT Platform:**  
-[https://kiwisiot.com/](https://kiwisiot.com/)
+[https://kiwisiot.in/](https://kiwisiot.in/)
 
 **KiwisIoT GitHub Repository:**  
 [https://github.com/Kiwistron/KiwisIoT-Projects](https://github.com/Kiwistron/KiwisIoT-Projects)
